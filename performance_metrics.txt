@@ -1,0 +1,5 @@
+MAE: $20,436.48
+RMSE: $27,741.33
+R²: 0.6174
+Explained Variance: 0.6195
+Mean Absolute Percentage Error: 12.83%
