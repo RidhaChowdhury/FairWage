@@ -55,7 +55,7 @@ with col1:
     st.info("""
     💡 **Tip:** For best results:
     - Use exact job titles
-    - Include bonuses/stocks
+    - Use base salary (not total comp)
     - Select nearest major city
     """)
 
@@ -63,8 +63,8 @@ with col1:
     **Please note:**
     - Prototype system (expect error)
     - Limited to US software engineering jobs
-    - Anonymous data
-    - Updated Jan 2024
+    - Anonymous data (Glassdoor)
+    - Updated Apr 2025
     """)
 
 # --- Right Column: Form ---
